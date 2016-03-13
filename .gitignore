@@ -1,3 +1,8 @@
+##### idea
+*.class
+*/*.iml
+*/.idea/*
+
 ###### C++
 
 # Compiled Object files
